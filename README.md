@@ -1,2 +1,1 @@
-a collection of my dotfiles in fedora
-
+This repo contains basic configuration files

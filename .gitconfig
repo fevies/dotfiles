@@ -1,0 +1,9 @@
+[user]
+	name = fevies
+	email = elviesodhiambo@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
+[core "safe"]
+	crlf = true
